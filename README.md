@@ -34,3 +34,6 @@ KoTeKTools - это инструмент для создания сборок н
 KoTeK
 - t.me/kotek_ya (tg)
 - t.me/kotek_mods (tg)
+
+XtremeByte
+- Конверт btx <=> png взял из их репозитория [кликабельно](https://gitverse.ru/xtremebyte/BTXEditor_dll)
