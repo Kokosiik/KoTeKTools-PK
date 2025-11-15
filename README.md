@@ -30,7 +30,7 @@ XtremeByte - Конверт btx <=> png взял из их репозитори�
 - libzip
 - Filesystem library
 
-## Автор:
+## Автор
 
 KoTeK
 - t.me/kotek_ya (tg)
